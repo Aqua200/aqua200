@@ -16,6 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aqua200&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="290"  alt="Aqua200"/>
 <br><br>
 </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
 <!--
 **Aqua200/aqua200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
