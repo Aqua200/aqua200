@@ -1,4 +1,4 @@
-## ¡Hola! ❤️ Bienvenido(a) a mi perfil 🦋
+## ¡Hola! 👋🏻 Bienvenido(a) a mi perfil 🦋
 
 ###  ❤️Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌹
 
