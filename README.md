@@ -1,8 +1,9 @@
 ## ¡Hola! 👋🏻 Bienvenido(a) a mi perfil ❤️
 
+> `❤️Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento ✨`
+
 ###  ❤️Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌹
 
-> `❤️Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento ✨`
 
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
