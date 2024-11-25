@@ -1,6 +1,8 @@
 ## ¡Hola! 💛 Bienvenido(a) a mi perfil 🌹🦋
 
-###  Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌙✨
+###  Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌹
+
+### Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento 🦋
 <!--
 **Aqua200/aqua200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
