@@ -2,7 +2,7 @@
 
 > `❤️Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento ✨`
 
-###  ❤️Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌹
+###  ❤️Conoce más sobre mí y mis 3 proyectos, unete y crezcamos juntos 🌹✨
 
 
 <p align="center"> 
