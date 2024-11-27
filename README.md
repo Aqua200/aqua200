@@ -1,6 +1,6 @@
 ## ¡Hola! 👋🏻 Bienvenido(a) a mi perfil ❤️
 
-![avatar_contact](https://qu.ax/fcqyV.jpeg)
+![avatar_contact](https://qu.ax/MmvzF.jpg)
 
 > `❤️Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento ✨`
 
