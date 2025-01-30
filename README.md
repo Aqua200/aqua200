@@ -1,4 +1,10 @@
-## ¡Hola! 👋🏻 Bienvenido(a) a mi perfil ❤️
+¡Hola y bienvenido a mi perfil de GitHub!
+
+Aquí encontrarás proyectos, ideas y colaboraciones sobre [tu área de enfoque o intereses]. Me encanta [mencionar tecnologías, lenguajes o frameworks que usas], así que si compartimos intereses, ¡no dudes en explorar mis repositorios o contribuir!
+
+Si quieres conectar o trabajar en algo juntos, ¡siempre estoy abierto a nuevas ideas! 🚀
+
+¡Feliz coding!
 
 ![avatar_contact](https://qu.ax/MmvzF.jpg)
 
