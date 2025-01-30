@@ -1,10 +1,16 @@
-¡Hola y bienvenido a mi perfil de GitHub!
 
-Aquí encontrarás proyectos, ideas y colaboraciones sobre [tu área de enfoque o intereses]. Me encanta [mencionar tecnologías, lenguajes o frameworks que usas], así que si compartimos intereses, ¡no dudes en explorar mis repositorios o contribuir!
+✨🚀 ¡Bienvenido a mi perfil de GitHub! 🚀✨
 
-Si quieres conectar o trabajar en algo juntos, ¡siempre estoy abierto a nuevas ideas! 🚀
+👋 ¡Hola! Me alegra que estés aquí. En este espacio encontrarás proyectos, ideas y colaboraciones sobre [tu área de enfoque].
 
-¡Feliz coding!
+🤖 Mis bots tienen un estilo único: mexicanos con un toque japonés 🎌🌮. Si te interesa la fusión de culturas en tecnología, ¡este es el lugar perfecto para ti!
+
+💻 Trabajo con [menciona tecnologías, lenguajes o frameworks], así que si compartimos intereses, ¡explora mis repositorios y colaboremos juntos!
+
+🔗 Si tienes alguna idea, sugerencia o simplemente quieres charlar sobre código, ¡mis DMs están abiertos!
+
+🎯 ¡Happy coding y bienvenido a la comunidad! 🚀🐙
+
 
 ![avatar_contact](https://qu.ax/MmvzF.jpg)
 
