@@ -8,11 +8,6 @@ Si quieres conectar o trabajar en algo juntos, ¡siempre estoy abierto a nuevas 
 
 ![avatar_contact](https://qu.ax/MmvzF.jpg)
 
-> `❤️Soy Nuevo en esto asi que cualquier error del bot me lo pueden hacer notificar para darle seguimiento ✨`
-
-###  ❤️Conoce más sobre mí y mis proyectos, unete y crezcamos juntos 🌹✨
-> `✨ tendran características diferentes para hacerlas unicas🌙`
-
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p> 
