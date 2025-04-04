@@ -1,6 +1,8 @@
 
 ✨🚀 ¡Bienvenido a mi perfil de GitHub! 🚀✨
 
+Me llamo neykoor 🤝 y mi pasatiempo es manter mi único bot
+
 👋 ¡Hola! Me alegra que estés aquí. En este espacio encontrarás proyectos, ideas y colaboraciones sobre [tu área de enfoque].
 
 🤖 Mis bots tienen un estilo único: mexicanos con un toque japonés 🎌🌮. Si te interesa la fusión de culturas en tecnología, ¡este es el lugar perfecto para ti!
