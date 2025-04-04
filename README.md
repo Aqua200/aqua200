@@ -11,8 +11,6 @@ Me llamo neykoor 🤝 y mi pasatiempo es manter mi único bot
 
 🔗 Si tienes alguna idea, sugerencia o simplemente quieres charlar sobre código, ¡mis DMs están abiertos!
 
-🎯 ¡Happy coding y bienvenido a la comunidad! 🚀🐙
-
 
 ![avatar_contact](https://qu.ax/MmvzF.jpg)
 
