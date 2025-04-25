@@ -7,12 +7,12 @@ Me llamo neykoor 🤝 y mi pasatiempo es manter mi único bot
 
 🤖 Mis bots tienen un estilo único: mexicanos con un toque japonés 🎌🌮. Si te interesa la fusión de culturas en tecnología, ¡este es el lugar perfecto para ti!
 
-💻 Trabajo con [menciona tecnologías, lenguajes o frameworks], así que si compartimos intereses, ¡explora mis repositorios y colaboremos juntos!
+💻 Trabajo con [ tecnologías, lenguajes o frameworks], así que si compartimos intereses, ¡explora mis repositorios y colaboremos juntos!
 
 🔗 Si tienes alguna idea, sugerencia o simplemente quieres charlar sobre código, ¡mis DMs están abiertos!
 
 
-![avatar_contact](https://qu.ax/MmvzF.jpg)
+![avatar_contact](https://files.catbox.moe/a0be96.jpeg)
 
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
