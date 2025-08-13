@@ -26,7 +26,9 @@ Desarrollo **bots para WhatsApp** con enfoque en estabilidad, mantenibilidad y u
 - Formato de mensajes con **símbolos**, documentación concisa y manejo de errores
 
 ### ▣ Enlaces
-- Portafolio y repositorios personales: **https://github.com/Aqua200/aqua200/tree/main**
+- Portafolio y repositorios personales:
+
+- no hay
 
 <p align="center">────────────────────────────────────────</p>
 
