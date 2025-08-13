@@ -1,4 +1,4 @@
-<h3 align="center">⟡ Presentación — neykoor ⟡</h3>
+<h3 align="center">⟡ neykoor ⟡</h3>
 
 <p align="center">
 Developer a cargo de <b>Asta</b> · Creador de bots para WhatsApp
