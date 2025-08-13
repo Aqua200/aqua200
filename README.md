@@ -18,7 +18,7 @@ Desarrollo **bots para WhatsApp** con enfoque en estabilidad, mantenibilidad y u
 
 ### ▣ Proyectos actuales
 - **Asta** — Bot modular de WhatsApp orientado a estabilidad, buenas prácticas y documentación clara.  
-  ▸ **Repositorio:** **[añade aquí la URL del repositorio de Asta]**
+  ▸ **Repositorio:** **[https://github.com/Fer280809]**
 
 ### ▣ Tecnologías y enfoque
 - **JavaScript / Node.js** · **Baileys**  
