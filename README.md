@@ -1,29 +1,34 @@
-<h3 align="center">⟡ neykoor ⟡</h3>
+<h3 align="center">⟡ Presentación — neykoor ⟡</h3>
 
 <p align="center">
-Creador de bots para WhatsApp
+Creador de bots para WhatsApp · Proyectos actuales
 </p>
 
 <p align="center">────────────────────────────────────────</p>
 
-
+<!-- ⟡ Imagen destacada (opcional) ⟡
+     Reemplaza la ruta ./media/portada.png por tu imagen o URL -->
 <p align="center">
   <img src="./media/portada.png" alt="Portada / Banner" width="900">
 </p>
 
 ### ▣ Sobre mí
 Hola, me llamo **neykoor**.  
-Me integro como **developer a cargo de Asta**, con enfoque en calidad, estabilidad y nuevas funciones.  
-Actualmente construyo y mantengo **bots para WhatsApp** con buenas prácticas y soporte continuo.
+Desarrollo **bots para WhatsApp** con enfoque en estabilidad, mantenibilidad y una salida estética basada en símbolos.
 
-### ▣ En qué aportaré a Asta
-- **Calidad y mantenimiento:** corrección de errores, pruebas y estabilidad.
-- **Funcionalidad:** comandos claros, UX consistente y documentación útil.
-- **Rendimiento:** menor consumo de recursos y tiempos de respuesta más bajos.
-- **Escalabilidad:** estructura modular y estándares de contribución.
+### ▣ Proyectos actuales
+- **Asta** — Bot modular de WhatsApp orientado a estabilidad, buenas prácticas y documentación clara.  
+  ▸ **Repositorio:** **[añade aquí la URL del repositorio de Asta]**
 
 ### ▣ Tecnologías y enfoque
-- **JavaScript / Node.js** · Integración con **Baileys**  
-- Automatización y despliegue en **ambientes ligeros** (incl. Termux)  
-- Estilo de salida con **símbolos**, textos limpios y formatos legibles  
-- Control de calidad: **ESLint**, estructura de plugins, manejo de errores
+- **JavaScript / Node.js** · **Baileys**  
+- Automatización y despliegue en **entornos ligeros** (incl. Termux)  
+- Formato de mensajes con **símbolos**, documentación concisa y manejo de errores
+
+### ▣ Enlaces
+- Portafolio y repositorios personales: **https://github.com/Aqua200/aqua200/tree/main**
+
+<p align="center">────────────────────────────────────────</p>
+
+### ▣ Colaboración
+Si tienes ideas o sugerencias, abre un **issue** o envía un **PR**. Respondo a propuestas de mejora y correcciones.
