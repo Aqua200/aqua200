@@ -1,7 +1,7 @@
 <h3 align="center">⟡ neykoor ⟡</h3>
 
 <p align="center">
-Developer a cargo de <b>Asta</b> · Creador de bots para WhatsApp
+Creador de bots para WhatsApp
 </p>
 
 <p align="center">────────────────────────────────────────</p>
