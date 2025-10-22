@@ -1,5 +1,7 @@
 # 💫 ¡Hola! Soy Neykoor 👋
 
+<img src="https://files.catbox.moe/0cnj4k.jpeg" width="200" style="border-radius: 20px;" alt="Foto de Neykoor">
+
 Soy **desarrollador y creador de bots para WhatsApp**, especializado en crear experiencias automatizadas, interactivas y personalizables para usuarios y comunidades.  
 Me encanta combinar creatividad, tecnología y funcionalidad para llevar cada proyecto al siguiente nivel 🚀
 
@@ -30,6 +32,17 @@ Me encanta combinar creatividad, tecnología y funcionalidad para llevar cada pr
 | JavaScript / Node.js | WhatsApp Web API | Baileys |
 | Python | Termux | Git / GitHub |
 | HTML / CSS | Cloud Deployment | MongoDB / JSON |
+
+---
+
+## 👥 Colaboradores
+
+Agradezco enormemente a las personas que me han apoyado en mis proyectos 💖  
+
+| Colaborador | Perfil | Imagen |
+|--------------|---------|--------|
+| 🧩 **The King Destroy** | [github.com/The-King-Destroy](https://github.com/The-King-Destroy) | <img src="https://avatars.githubusercontent.com/The-King-Destroy" width="100" style="border-radius: 15px;"> |
+| 🌙 **0J** | [github.com/https0J](https://github.com/https0J) | <img src="https://avatars.githubusercontent.com/https0J" width="100" style="border-radius: 15px;"> |
 
 ---
 
