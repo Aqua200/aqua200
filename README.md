@@ -37,7 +37,7 @@ Me encanta combinar creatividad, tecnología y funcionalidad para llevar cada pr
 
 ## 👥 Colaboradores
 
-Agradezco enormemente a las personas que me han apoyado en mis proyectos 💖  
+Agradezco enormemente a las personas que me han apoyado en mis proyectos 
 
 | Colaborador | Perfil | Imagen |
 |--------------|---------|--------|
